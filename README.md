@@ -94,13 +94,7 @@
 - **Kết nối Internet**: Dùng để tải ảnh, thư viện CSS/JS
 
 <br>**📦 Hướng dẫn sử dụng ứng dụng**</br>
-<p align="center">
-    <video width="800" controls>
-        <source src="img/video/video.mp4" type="video/mp4">
-    </video><br/>
-    <i>Hình 1: Video minh họa chức năng đăng nhập</i><br/><br/>
-</p>
-
+<br>Xem video hướng dẫn tại đây : https://drive.google.com/file/d/1jEvv9PQb9pX6BslCed56R3liWM4Jy_MM/view?usp=drive_link </br>
 
 ---
 ## 5. Liên hệ
