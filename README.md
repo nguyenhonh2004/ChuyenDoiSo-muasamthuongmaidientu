@@ -101,5 +101,5 @@
 - Họ và tên: Nguyễn Thu Hồng
 - Lớp: CNTT 16-04
 - Email: nguyenhongnunu@gmail.com
-- © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+- © 2025 ChuyenDoiSo, Faculty of Information Technology, DaiNam University. All rights reserved.
 ---
