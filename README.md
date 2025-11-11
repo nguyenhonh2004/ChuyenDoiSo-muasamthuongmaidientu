@@ -31,7 +31,7 @@
  <p style="font-size: 18px; font-weight: bold;">Các chức năng chính:</p>
     <ul style="font-size: 16px; line-height: 1.6;">
         <li>Đăng ký và đăng nhập tài khoản người dùng</li>
-        <li>Xem danh sách sản </li>
+        <li>Xem danh sách sản phẩm </li>
         <li>Tìm kiếm và lọc sản phẩm</li>
         <li>Xem chi tiết sản phẩm</li>
         <li>Thêm sản phẩm vào giỏ hàng</li>
@@ -65,9 +65,9 @@
         <img src="img/anh/2.jpg" alt="" width="800"/><br/>
          <i>Hình 2: Sản phẩm trong trang chủ<i><br/><br/>
         <img src="img/anh/3.jpg" alt="" width="800"/><br/>
-        <i>Hình 3: Form đăng kí <i><br/><br/>
+        <i>Hình 3: Form đăng nhập <i><br/><br/>
          <img src="img/anh/4.jpg" alt="" width="800"/><br/>
-        <i>Hình 4: Form đăng nhập <i><br/><br/>
+        <i>Hình 4: Form đăng ký <i><br/><br/>
          <img src="img/anh/5.jpg" alt="" width="800"/><br/>
          <i>Hình 5: Trang tin tức<i><br/><br/>
          <img src="img/anh/6.jpg" alt="" width="800"/><br/>
@@ -88,45 +88,20 @@
 
 ##  📝 4. Hướng dẫn cài đặt và sử dụng ứng dụng 
 **🔧Yêu cầu hệ thống**
-- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
 - **Hệ điều hành**: Windows, macOS, hoặc Linux
-- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
-- **Bộ nhớ RAM**: Tối thiểu 512 MB (khuyến nghị ≥ 2 GB)
-- **Dung lượng**: Khoảng 10MB cho mã nguồn và file thực thi
-- **Port**: 12346
+- **Trình duyệt web**: Google Chrome, Microsoft Edge hoặc Firefox (phiên bản mới nhất).
+- **Phần mềm hỗ trợ lập trình**: Visual Studio Code (hoặc bất kỳ trình soạn thảo mã nguồn nào khác).
+- **Kết nối Internet**: Dùng để tải ảnh, thư viện CSS/JS
 
-<br>**📦 Cài đặt và triển khai**</br>
-<br>Bước 1: Chuẩn bị môi trường</br>
-- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
-- **Hệ điều hành**: Windows / macOS / Linux
-- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code) hoặc Terminal/Command Prompt
-  
-<br>Bước 2: Khởi động chương trình</br>
-- **Bước 1**: Chạy Server trước (server sẽ lắng nghe các kết nối).
-- **Bước 2**: Chạy Client (có thể mở nhiều client để nhiều người dùng chat với nhau).
+<br>**📦 Hướng dẫn sử dụng ứng dụng**</br>
+<p align="center">
+    <video width="800" controls>
+        <source src="img/video/video.mp4" type="video/mp4">
+    </video><br/>
+    <i>Hình 1: Video minh họa chức năng đăng nhập</i><br/><br/>
+</p>
 
-<br>Bước 3: Đăng ký tài khoản (lần đầu)</br>
-- Nhấn nút Register trên giao diện client.
-- Nhập thông tin:
-        + Username (tên tài khoản, duy nhất)
-        + Password (mật khẩu)
-- (Tùy chọn) Chọn avatar để hiển thị.
-- Nhấn Xác nhận / Đăng ký → Nếu thành công sẽ hiện thông báo "Đăng ký thành công".
 
-<br>Bước 4: Đăng nhập </br>
--  Nhập Username và Password đã đăng ký.
--  Nhấn Login → nếu đúng, hệ thống sẽ đưa bạn vào cửa sổ chat chính.
-
-<br>Bước 5: Giao diện chat chính </br>
-- Danh sách người dùng: hiển thị tất cả tài khoản (online / offline).
-- Khu vực chat: nơi hiển thị tin nhắn gửi và nhận.
-- Khung nhập: nơi nhập nội dung tin nhắn.
-
-<br>Bước 6: Các nút chức năng </br>
-- Gửi tin nhắn văn bản.
-- Gửi hình ảnh.
-- Gửi file.
-- Gửi emoji / sticker.
 ---
 ## 5. Liên hệ
 - Họ và tên: Nguyễn Thu Hồng
