@@ -60,18 +60,28 @@
 ## 3. Hình ảnh các chức năng
 <div align="center">
     <p align="center">
-        <img src="docs/1.jpg" alt="" width="800"/><br/>
-        <i>Hình 1: Chức năng đăng nhập<i><br/><br/>
-        <img src="docs/2.jpg" alt="" width="800"/><br/>
-         <i>Hình 2: Chức năng đăng ký<i><br/><br/>
-        <img src="docs/3.jpg" alt="" width="800"/><br/>
-        <i>Hình 3: Chức năng gửi sticker<i><br/><br/>
-         <img src="docs/4.jpg" alt="" width="800"/><br/>
-        <i>Hình 4: Chức năng gửi ảnh <i><br/><br/>
-         <img src="docs/5.jpg" alt="" width="800"/><br/>
-         <i>Hình 5: Chức năng gửi file<i><br/><br/>
-         <img src="docs/6.jpg" alt="" width="800"/><br/>
-         <i>Hình 6: Hình ảnh Server và Client đang chat <i><br/><br/>
+        <img src="img/anh/1.jpg" alt="" width="800"/><br/>
+        <i>Hình 1: Trang chủ<i><br/><br/>
+        <img src="img/anh/2.jpg" alt="" width="800"/><br/>
+         <i>Hình 2: Sản phẩm trong trang chủ<i><br/><br/>
+        <img src="img/anh/3.jpg" alt="" width="800"/><br/>
+        <i>Hình 3: Form đăng kí <i><br/><br/>
+         <img src="img/anh/4.jpg" alt="" width="800"/><br/>
+        <i>Hình 4: Form đăng nhập <i><br/><br/>
+         <img src="img/anh/5.jpg" alt="" width="800"/><br/>
+         <i>Hình 5: Trang tin tức<i><br/><br/>
+         <img src="img/anh/6.jpg" alt="" width="800"/><br/>
+         <i>Hình 6: Trang tuyển dụng <i><br/><br/>
+          <img src="img/anh/7.jpg" alt="" width="800"/><br/>
+         <i>Hình 7: Trang những địa điểm bảo hành <i><br/><br/>
+          <img src="img/anh/8.jpg" alt="" width="800"/><br/>
+         <i>Hình 8: Trang thông tin liên hệ <i><br/><br/>
+         <img src="img/anh/9.jpg" alt="" width="800"/><br/>
+         <i>Hình 9: Giỏ hàng và thanh toán <i><br/><br/>
+          <img src="img/anh/10.jpg" alt="" width="800"/><br/>
+         <i>Hình 10: Chi tiết sản phẩm <i><br/><br/>
+          <img src="img/anh/11.jpg" alt="" width="800"/><br/>
+         <i>Hình 11: Trang người  <i><br/><br/>
     </p>
 </div>
 
